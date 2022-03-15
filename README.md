@@ -1,5 +1,7 @@
 # El Día Del Partido
 
+Desarrollado por: Ignacio Vilda Pérez (ivp00007)
+
 ## Descripción del Juego
 
 El Día De Partido es un juego que trata la historia de un jóven de 20 años que va a Madrid a ver un partido de fútbol de su equipo favorito junto
