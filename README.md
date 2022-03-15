@@ -35,6 +35,9 @@ En este apartado se adjuntarán las diferentes capturas de pantalla del proceso 
 
 En este apartado se añadirán las capturas de pantalla de la aplicación Telegram en las que se compruebe que efectivamente están vinculados los eventos de GitHub (y si es posible Trello también) con Telegram.
 
+- Vinculación eventos GitHub-Telegram:
+
+![botTelegram_gitHub](https://user-images.githubusercontent.com/99610212/158439249-7aa34d2a-f08c-4414-86f6-327120fb4c3b.jpg)
 
 
 
