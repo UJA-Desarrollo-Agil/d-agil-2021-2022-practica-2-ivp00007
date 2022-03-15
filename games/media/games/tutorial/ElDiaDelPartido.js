@@ -41,7 +41,7 @@ undum.game.situations = {
 galletas: new undum.SimpleSituation(
     "<p>Finalmente, Juan decide ir a lo seguro y desayunar las galletas con una pinta increíble.</p>\
     \
-    <p>Más tarde, ya preparados, Juan y su padre parten hacia Madrid con el coche tranquilamente esuchando su música favorita.</p>\
+    <p>Más tarde, ya preparados, Juan y su padre parten hacia Madrid con el coche tranquilamente escuchando su música favorita.</p>\
     \
     <p>Se han olvidado de antes de salir a carretera recargar la gasolina del coche y se dan cuenta a mitad de trayecto. Pero tienen la gasolina justa para llegar a Madrid y ya allí echar gasolina. </p>\
     \
@@ -73,7 +73,7 @@ gasolinadespues: new undum.SimpleSituation(
     "<img src='media/games/tutorial/grua.jpeg' class='float_right' width=300>\
      <p>Juan y su padre deciden esperar y parar a echar gasolina en Madrid porque calculan que queda suficiente como para llegar.</p>\
      <p>Cuando llevan un tiempo más de viaje, el coche se queda sin gasolina. No habían calculado bien la gasolina restante.</p>\
-     <p>Tienen que llamar a una grúa porque se han quedado tirados en mitad de la carretera y no llegarán a tiempo al partido. De hecho cuando llega la grúa ya quedan 30 minutos de partido y no merce la pena ir hasta allí, por lo que piden un taxi y <a href='casa'>se van hacia casa</a>.</p>\
+     <p>Tienen que llamar a una grúa porque se han quedado tirados en mitad de la carretera y no llegarán a tiempo al partido. De hecho cuando llega la grúa ya quedan 30 minutos de partido y no merece la pena ir hasta allí, por lo que piden un taxi y <a href='casa'>se van hacia casa</a>.</p>\
     ",
     
     {
@@ -90,7 +90,7 @@ partido: new undum.SimpleSituation(
     "<img src='media/games/tutorial/estadio.jpeg' class='float_right' width=300>\
      <p>Cuando entran al estadio y miran a su alrededor quedan absolutamente impresionados con lo grande que es y como cambia de verlo en la tele a verlo en persona con sus propios ojos.</p>\
     \
-     <p>Pero al tiempo se dan cuenta de que hay unos sitios más alante aparentemente libres desde los cuáles se ve mucho mejor que de donde ellos están sentados, entonces se piensan si <a href='asientosdelante'>cambiarse a los asientos de delante</a> o <a href='mismosasientos'>quedarse en sus asientos </a> por si algún responsable de seguridad del estadio les puede decir algo.</p>\
+     <p>Pero al tiempo se dan cuenta de que hay unos sitios delante aparentemente libres desde los cuáles se ve mucho mejor que desde donde ellos están sentados, entonces se piensan si <a href='asientosdelante'>cambiarse a los asientos de delante</a> o <a href='mismosasientos'>quedarse en sus asientos </a> por si algún responsable de seguridad del estadio les puede decir algo.</p>\
     ",
     
     {
@@ -139,8 +139,8 @@ pizza: new undum.SimpleSituation(
 ),
     
 motel: new undum.SimpleSituation(
-    "<p>Van a un motel cercano de donde estaban a intentar comprar algo para que Juan se sintiera mejor y descansara un poco aunque iban un poco justos de tiempo.</p>\
-     <p>Allí su padre compra algo de zumo de naranja para recuperar pero Juan no muestra mejora alguna. Finalmente deciden <a href='casa'>volver a casa</a> ya que Juan empeora, con malestar general e incluso fiebre. Esperan que sea una simple indigestión y no algo más serio...</p>\
+    "<p>Van a un motel cercano de donde estaban para comprar algo para que Juan se sintiera mejor y descansara un poco aunque iban un poco justos de tiempo.</p>\
+     <p>Allí su padre le compra zumo de naranja, pero Juan no muestra mejora alguna. Finalmente deciden <a href='casa'>volver a casa</a> ya que Juan empeora, con malestar general e incluso fiebre. Esperan que sea una simple indigestión y no algo más serio...</p>\
      ",
     {
         heading: "Van al motel",
