@@ -6,8 +6,7 @@ El Día De Partido es un juego que trata la historia de un jóven de 20 años qu
 a su padre. A lo largo del día se irán encontrando con varios problemas y obstáculos que le impedirán (o no) llegar a su destino, todo depende de las decisiones
 que tomen ante sus adversidades.
 
-Es un juego interactivo programado y realizado con Undum, el usuario que lo juega deberá elegir entre las opciones propuestas a los diferentes pronblemas que encuentran los protagonistas en su camino. 
-según la decisión que se tome, la historia transcurrirá de una forma u otra.
+Es un juego interactivo programado y realizado con Undum, el usuario que lo juega deberá elegir entre las opciones propuestas a los diferentes problemas que encuentran los protagonistas en su camino. Según la decisión que se tome, la historia transcurrirá de una forma u otra.
 
 ## URL del tablero de Trello
 
